@@ -1,0 +1,47 @@
+
+Question  :    What is the sum of 130+125+191?   
+Answer   :   446
+Question  :    If we minus 712 from 1500, how much do we get?   
+Answer   :   788
+Question  :    50 times of 8 is equal to:   
+Answer   :   400
+Question  :    Find the missing terms in multiple of 3: 3, 6, 9, __, 15   
+Answer   :   12
+Question  :    Solve 24÷8+2.   
+Answer   :   4
+Question  :    Solve 24÷8+2   
+Answer   :   4
+Question  :    What is the next prime number after 5?   
+Answer   :   7
+Question  :    Perimeter of a sector of a circle whose central angle is 90° and radius 7 cm is   
+Answer   :   44 cm
+Question  :     The area of a circle that can be inscribed in a square of side 10 cm is   
+Answer   :   78.5 cm2
+Question  :    The perimeter of a square circumscribing a circle of radius a units is   
+Answer   :   4a units
+Question  :    The perimeter of the sector with radius 10.5 cm and sector angle 60° is   
+Answer   :   65.5 cm
+Question  :    worng answer   
+Answer   :   The answer is incorrect.
+Question  :    write right answer The perimeter of the sector with radius 10.5 cm and sector angle 60° is   
+Answer   :   The perimeter of the sector with radius 10.5 cm and sector angle 60° is 65.5 cm.
+Question  :    what is my name   
+Answer   :   I cannot answer that question.
+Question  :    what is my name   
+Answer   :   I cannot answer that question.
+Question  :    what is   
+Answer   :   I cannot answer that question.
+Question  :    what is   
+Answer   :   I cannot answer that question.
+Question  :    what is the recipe of maggi   
+Answer   :   I cannot answer that question.
+Question  :    what is the full form of pk   
+Answer   :   I cannot answer that question.
+Question  :    what is my little sister's name   
+Answer   :   I cannot answer that question.
+Question  :    what is my little sister's name   
+Answer   :   I cannot answer that question.
+Question  :    what is the date today   
+Answer   :   I cannot answer that question.
+Question  :    what is my friend's name   
+Answer   :   I cannot answer that question.
